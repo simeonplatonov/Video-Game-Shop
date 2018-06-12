@@ -1,0 +1,27 @@
+
+.menu{
+  display: flex;
+  justify-content: space-between;
+}
+.container{
+  margin-top: 20px;
+  background: #cccccc;
+  padding: 10px;
+}
+.row{
+  margin-top:10px;
+  cursor: pointer;
+}
+.row:hover{
+  background: #6d6d6d;
+}
+.col{
+  display: flex;
+
+}
+h5{
+  margin-left: 5px;
+}
+.price{
+  color:#0028f4;
+}
